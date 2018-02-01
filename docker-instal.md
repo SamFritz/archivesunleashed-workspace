@@ -10,7 +10,7 @@ This quick guide will walk through how to install Docker for Mac users
 Docker is available for a variety of operating systems, including Mac, Windows, AWS, etc. 
 
 
-## Installation 
+## Install Docker 
 1. To install Docker for a Mac OS, use this [link](https://store.docker.com/editions/community/docker-ce-desktop-mac). Scroll down the page to select Docker CE for Mac (Stable)
 ![install-2](https://user-images.githubusercontent.com/7362321/35658635-4eb04e74-06d0-11e8-8258-30c63c1cb7b2.png)
 
@@ -27,7 +27,13 @@ Docker is available for a variety of operating systems, including Mac, Windows, 
 
 ![install-5](https://user-images.githubusercontent.com/7362321/35658638-4edeb1b0-06d0-11e8-8bef-4b7b5ad9143d.png)
 
-5. Now that Dcoker is running you can log in with your Docker ID if you have one. You can create one at https://cloud.docker.com
+Now that the Docker application is installed you can log in with your Docker IDif you have one. You can create one at https://cloud.docker.com
+
+## Run Docker
+5. Open a command-line terminal, and try out some Docker commands: 
+Run 'docker version' to check that you have the latest release installed.
+
+Next, run 'docker run hello-world' to verify that Docker is pulling images and running as expected.
 
 
 
