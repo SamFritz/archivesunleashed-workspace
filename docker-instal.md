@@ -38,6 +38,7 @@ Now that the Docker application is installed you can log in with your Docker IDi
 | docker version | to check that you have the latest release installed |
 | docker run hello-world | to verify that Docker is pulling images and running as expected |
 
+![install-8](https://user-images.githubusercontent.com/7362321/35699395-f100c91e-075d-11e8-824b-2578698fe6dd.png)
 
 
 
