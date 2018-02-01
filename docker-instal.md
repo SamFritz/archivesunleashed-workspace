@@ -26,17 +26,17 @@ Docker is available for a variety of operating systems, including Mac, Windows, 
 
 4. The Docker icon should appear in your menu bar along the top of your screen. When you click on the icon, there should be a green dot indicating docker is running
 ![install-6](https://user-images.githubusercontent.com/7362321/35658925-a6a1b0ae-06d1-11e8-8948-f4efc70962ab.png)
-
+![install-7](https://user-images.githubusercontent.com/7362321/35699127-27b4c768-075d-11e8-8314-7d5fae02f26d.png)
 
 Now that the Docker application is installed you can log in with your Docker IDif you have one. You can create one at https://cloud.docker.com
 
 ## Run Docker
 5. Open a command-line terminal, and try out some Docker commands: 
-Run 'docker version' to check that you have the latest release installed.
 
-Next, run 'docker run hello-world' to verify that Docker is pulling images and running as expected.
-
-
+| Command        | Purpose           |
+| ------------- |:-------------:|
+| docker version | to check that you have the latest release installed |
+| docker run hello-world | to verify that Docker is pulling images and running as expected |
 
 
 
