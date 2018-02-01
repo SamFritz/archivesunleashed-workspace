@@ -24,6 +24,7 @@ Docker is available for a variety of operating systems, including Mac, Windows, 
 ![install-6](https://user-images.githubusercontent.com/7362321/35658639-4eeae174-06d0-11e8-9747-26097cccbcf3.png)
 
 <i>Please note</i>, depending on your security preferences a notice may show up warning you, you are about to open an application from the web. Select open to continue. 
+
 ![install-5](https://user-images.githubusercontent.com/7362321/35658638-4edeb1b0-06d0-11e8-8bef-4b7b5ad9143d.png)
 
 5. Now that Dcoker is running you can log in with your Docker ID if you have one. You can create one at https://cloud.docker.com
