@@ -21,7 +21,7 @@ Docker is available for a variety of operating systems, including Mac, Windows, 
 ![install-4](https://user-images.githubusercontent.com/7362321/35658637-4ece0a2c-06d0-11e8-9066-fccb115bc951.png)
 
 4. The Docker icon should appear in your menu bar along the top of your screen. Navigate to the icon and open the application.
-![install-6](https://user-images.githubusercontent.com/7362321/35658639-4eeae174-06d0-11e8-9747-26097cccbcf3.png)
+![install-6](https://user-images.githubusercontent.com/7362321/35658925-a6a1b0ae-06d1-11e8-8948-f4efc70962ab.png)
 
 <i>Please note</i>, depending on your security preferences a notice may show up warning you, you are about to open an application from the web. Select open to continue. 
 
