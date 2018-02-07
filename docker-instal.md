@@ -27,7 +27,7 @@ This quick guide will walk through how to install Docker for Mac users
 Now that the Docker application is installed you can log in with your Docker IDif you have one. You can create one at https://cloud.docker.com
 
 ## Run Docker
-5. Open a command-line terminal, and try out some Docker commands: 
+5. Open terminal and try out some Docker commands: 
 
 | Command        | Purpose           |
 | ------------- |:-------------:|
